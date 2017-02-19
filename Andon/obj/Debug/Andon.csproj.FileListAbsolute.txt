@@ -1,0 +1,15 @@
+D:\dev\src\Andon\Andon\bin\Debug\AppDatabase.sdf
+D:\dev\src\Andon\Andon\bin\Debug\Andon.exe
+D:\dev\src\Andon\Andon\bin\Debug\Andon.pdb
+D:\dev\src\Andon\Andon\bin\Debug\System.Data.SqlClient.dll
+D:\dev\src\Andon\Andon\bin\Debug\System.Data.SqlServerCe.dll
+D:\dev\src\Andon\Andon\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\src\Andon\Andon\obj\Debug\Andon.frmLine.resources
+D:\dev\src\Andon\Andon\obj\Debug\Andon.frmMain.resources
+D:\dev\src\Andon\Andon\obj\Debug\Andon.frmShift.resources
+D:\dev\src\Andon\Andon\obj\Debug\Andon.frmUser.resources
+D:\dev\src\Andon\Andon\obj\Debug\Andon.Properties.Resources.resources
+D:\dev\src\Andon\Andon\obj\Debug\Andon.csproj.GenerateResource.Cache
+D:\dev\src\Andon\Andon\obj\Debug\Andon.exe
+D:\dev\src\Andon\Andon\obj\Debug\Andon.pdb
+D:\dev\src\Andon\Andon\obj\Debug\Andon.frmSchedule.resources
